@@ -61,3 +61,45 @@ section{
     border-radius: 5%;
     padding: 2%;
 }
+.learn{
+    display: flex;
+}
+.development-part img{
+    width: 100%;
+}
+.development-part{
+    width: 40%;
+    padding: 5%;
+}
+.Global-community{
+    display: flex;
+}
+.project img{
+    width: 100%;
+}
+.project{
+    width: 40%;
+    padding: 5%;
+}
+.warming img{
+    width: 100%;
+}
+.warming{
+    width: 40%;
+    padding: 5%;
+}
+.global-issu{
+    display: flex;
+}
+.fire{
+    color: red;
+}
+.terget{
+    color: seashell;
+}
+.end{
+    text-align: center;
+    background-color: black;
+  
+}
+
