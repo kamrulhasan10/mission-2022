@@ -11,12 +11,12 @@ h1{
 section{
     display: flex;
 }
-.mission{
+.mission22{
     width: 40%;
     margin: 5%;
 }
-.mission img{
-    width: 100%;
+.mission22 img{
+    width: 80%;
 }
 .button{
     text-decoration: none;
@@ -24,4 +24,40 @@ section{
     background-color: deeppink;
     padding: 10px 40px;
     border-radius: 6%;
+}
+.my-focused{
+    margin-left: 5%;
+}
+.dreams{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+}
+.destination{
+    text-align: center;
+    margin-top: 50px;
+}
+.img-div img{
+    width: 100%;
+}
+.mission{
+    border: 1px solid pink;
+    width: 300px;
+   background-color: pink;
+   border-radius: 5%; 
+   padding: 2%;
+}
+.vission{
+    border: 1px solid salmon;
+    width: 300px;
+    background-color: salmon;
+    border-radius: 5%;
+    padding: 2%;
+}
+.goals{
+    border: 1px solid antiquewhite;
+    width: 300px;
+    background-color: antiquewhite;
+    border-radius: 5%;
+    padding: 2%;
 }
